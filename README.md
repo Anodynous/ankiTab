@@ -25,6 +25,7 @@
 - [**Firefox** add-on](https://github.com/corollari/ankiTab/issues/3)
 
 ### Recent releases
+- v0.5.5 (Sep 9, 2025) - fixed manifest to allow for unsigned extension installation using a [supported Firefox version](https://support.mozilla.org/en-US/kb/add-on-signing-in-firefox#w_what-are-my-options-if-i-want-to-use-an-unsigned-add-on-advanced-users)
 - v0.5.4 (Nov 11, 2021) - improved dark mode (cards are made white-on-black text), image widths now limited to <100% of card width. 
 
 ## Build
